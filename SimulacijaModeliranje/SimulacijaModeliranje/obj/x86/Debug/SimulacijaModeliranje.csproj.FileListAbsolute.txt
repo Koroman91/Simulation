@@ -1,0 +1,10 @@
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\SimulacijaModeliranje\SimulacijaModeliranje\bin\Debug\SimulacijaModeliranje.exe
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\SimulacijaModeliranje\SimulacijaModeliranje\bin\Debug\SimulacijaModeliranje.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\SimulacijaModeliranje\SimulacijaModeliranje\obj\x86\Debug\SimulacijaModeliranje.Form1.resources
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\SimulacijaModeliranje\SimulacijaModeliranje\obj\x86\Debug\SimulacijaModeliranje.Properties.Resources.resources
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\SimulacijaModeliranje\SimulacijaModeliranje\obj\x86\Debug\SimulacijaModeliranje.csproj.GenerateResource.Cache
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\SimulacijaModeliranje\SimulacijaModeliranje\obj\x86\Debug\SimulacijaModeliranje.exe
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\SimulacijaModeliranje\SimulacijaModeliranje\obj\x86\Debug\SimulacijaModeliranje.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2010\Projects\SimulacijaModeliranje\SimulacijaModeliranje\obj\x86\Debug\SimulacijaModeliranje.csprojResolveAssemblyReference.cache
+C:\Users\Stefan-Ivan\Desktop\Projects\SimulacijaModeliranje\SimulacijaModeliranje\obj\x86\Debug\SimulacijaModeliranje.exe
+C:\Users\Stefan-Ivan\Desktop\Projects\SimulacijaModeliranje\SimulacijaModeliranje\obj\x86\Debug\SimulacijaModeliranje.pdb
